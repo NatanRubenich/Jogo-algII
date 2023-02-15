@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1573783688 source:c:\users\ghgmi\documents\3 semestre\algorítimos 2\jogooo\teste.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574710913 source:c:\users\ghgmi\documents\3 semestre\algii - algorítimos 2\jogooo\teste.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+	<stdlib.h>
+
+1575617015 source:d:\faculdade\alg ii\jogooo\teste.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+	"SDL2/SDL_ttf.h"
+	<errno.h>
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1574823938 source:d:\faculdade\alg ii\jogooo\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+
+1575137231 source:c:\users\ghgmi\desktop\nova pasta\jogooo\teste.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+
+1575225330 source:c:\users\ghgmi\desktop\jogobeta1.1\jogooo\teste.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+
+1575240872 source:c:\users\ghgmi\documents\3 semestre\algii - algorítimos 2\jogobeta1.1\jogooo\teste.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+
+1577206008 source:d:\faculdade\alg ii\jogo_pronto\teste.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+	"SDL2/SDL_ttf.h"
+	<errno.h>
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1579044157 source:e:\faculdade\iii semestre\alg ii\jogo_pronto\teste.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+	"SDL2/SDL_ttf.h"
+	<errno.h>
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
